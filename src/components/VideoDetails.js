@@ -5,7 +5,7 @@ import Paper from "@material-ui/core/Paper";
 const VideoDetails = ({ video }) => {
   if (!video) return <div><h1>Search to see videos</h1></div>;
 
-  const videoSrc = `http://www.youtube.com/embed/${video.id.videoId}`;
+  const videoSrc = `https://www.youtube.com/embed/${video.id.videoId}`;
   return (
     <React.Fragment>
       <Paper elevation={6} style={{ height: "60%" }}>
