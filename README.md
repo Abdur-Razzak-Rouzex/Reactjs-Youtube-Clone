@@ -66,3 +66,12 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
+<!-- Dependencies:
+npm i --save axios @material-ui/core -->
+
+<!-- API_KEY: AIzaSyDMDmwnGPpdW0QS4N4IFncRtTJeCjymzzs -->
+
+<!-- technologies:
+matrial ui, youtube api -->
